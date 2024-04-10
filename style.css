@@ -61,7 +61,7 @@ header {
 
 /* メイン */
 #hero {
-    background-image: url(../images/hero.jpg);
+    background-image: url("https://github.com/shelluvsbb/salad-meeting/blob/main/hero.jpg?raw=true");
     background-position: center;
     background-size: cover;
     height: 540px;
@@ -145,7 +145,7 @@ header {
 }
 
 .concept-img {
-    background-image: url(../images/concept.jpg);
+    background-image: url("https://github.com/shelluvsbb/salad-meeting/blob/main/concept.jpg?raw=true");
     background-position: center;
     background-size: cover;
     height: 340px;
@@ -270,7 +270,7 @@ header {
 }
 
 .column-b {
-    background-image: url(../images/bottom2.jpg);
+    background-image: url("https://github.com/shelluvsbb/salad-meeting/blob/main/bottom2.jpg?raw=true");
     background-position: center;
     background-size: cover;
     width: 18%;
@@ -279,7 +279,7 @@ header {
 }
 
 .column-c {
-    background-image: url(../images/bottom3.jpg);
+    background-image: url("https://github.com/shelluvsbb/salad-meeting/blob/main/bottom3.jpg?raw=true");
     background-position: center;
     background-size: cover;
     width: 24%;
@@ -288,7 +288,7 @@ header {
 }
 
 .column-d {
-    background-image: url(../images/bottom4.jpg);
+    background-image: url("https://github.com/shelluvsbb/salad-meeting/blob/main/bottom4.jpg?raw=true");
     background-position: center;
     background-size: cover;
     width: 28%;
