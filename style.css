@@ -261,7 +261,7 @@ header {
 
 /* ボトム */
 .column-a {
-    background-image: url(../images/bottom1.jpg);
+    background-image: url("https://github.com/shelluvsbb/salad-meeting/blob/main/bottom1.jpg?raw=true");
     background-position: center;
     background-size: cover;
     width: 24%;
